@@ -1,7 +1,7 @@
 
 {
   "name": "al-buraq-atm-machine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It Is A Simple Command Line Automatic Teller Machine (ATM) & Your Pin Code Is 1234",
   "main": "index.js",
   "type": "module",
@@ -9,8 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Minhaj Ali",
-  "license": "ISC",
+  "author": "",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.16"
   },
